@@ -1,0 +1,1 @@
+import{j as t,I as s}from"./index-DRgDHYoO.js";const r=()=>t.jsx("div",{className:"mx-auto",children:t.jsx(s.Bird,{strokeWidth:1,className:"w-24 h-auto text-gray-500 dark:text-gray-400"})});export{r as E};
